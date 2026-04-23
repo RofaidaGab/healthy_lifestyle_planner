@@ -6,12 +6,8 @@ A desktop application built with Python and Tkinter that helps users plan their 
 
 ## 📸 Screenshots
 
-> _Add a screenshot of the main window here_
-> 
 > ![Main Window](screenshots/main_window.png)
 
-> _Add a screenshot of a filled weekly plan here_
-> 
 > ![Weekly Plan](screenshots/weekly_plan.png)
 
 ---
